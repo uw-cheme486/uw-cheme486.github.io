@@ -6,40 +6,48 @@ collection: main
 
 # Course Description
 
-Applied economics in chemical engineering design and operations; measures of profitability; capital and operating cost estimates; introduction to design and design strategies.
+Comprehensive design of a specific process or product, including economic feasibility studies, utilization of market survey and plant location studies, process equipment design and optimization, and overall plant integration and layout.
 
 ## Instructors
 
+- Prof. Eric Stuve (stuve@uw.edu)
+  * Office hours: TBD
 - Prof. Chad Curtis (ccurtis7@uw.edu)
   * Office hours: By appointment (BNS 263)
 
 ## Teaching Assistants
 
-- AA: Griffin Ruehl (gruehl@uw.edu)
-  * Office hours: M 3:00-4:00 (BNS 352)
+- AA: Anthony Pyka
+  * Office hours: TBD
 
-- AB: Jack Rumptz (jrumptz@uw.edu)
-  * Office hours: W 10:30-11:30 (Blue room 2nd floor BNS)
+- AB: Preetham Sunkari
+  * Office hours: TBD
+
+- AC: Kaylyn Torkelson
+  * Office hours: TBD
 
 ## Teaching Logistics
 
-- Lectures: M/W/F 12:30-1:20 (MOR 230)
-
-**Test italics**
+- Lectures: M/W/F 8:30-9:20 (JHN 175)
 
 - Quiz Sections:
-  * AA: T 11:30-12:20 (LOW 216)
-  * AB: T 12:30-1:20 (MOR 225)
+  * AA: T 8:30-11:20 (BNS 203)
+  * AB: T 1:30-4:20 (MUE 154)
+  * AC: Th 8:30-11:20 (BNS 203)
+
+## Course Design
+
+Process Design II is a project-based course designed around the AIChE Chemical Engineering Design Competition. Students will be preparing a completed design report, including process flow diagrams, equipment cost and fixed capital investment summaries, process safety considerations, environmental considerations, manufacturing costs, and economic analyses. Students and faculty must adhere to the competition rules, as outlined in the provided documents. In particular, all designs **must be completed within 60 days of being assigned**, and **faculty members can only provided generalized advice and information not specific to the problem at hand**. Please see the grading page for any questions regarding the impact on assignments and evaluation. 
 
 ## Course Objectives
 
-1. Understand, interpret, synthesize, and create chemical processes.
-2. Interpret design diagrams, including block flow diagrams, process flow diagrams, and piping and instrumentation diagrams.
-3. Determine operating conditions of different equipment and their impact on the economics of the design.
-4. Evaluate economic impact of new (or existing) chemical process taking into account both capital and operating costs.
-5. Perform simulations of chemical processes using AspenPlus to design and optimize process conditions.
-6. Understand ethical and legal issues at stake in the design process.
-7. Understand safety issues inherent in plant design and how to account for them during the design process.
+By the end of the course, students should be able to design and optimize a chemical process plant with the following components:
+
+1. Market analysis for a chemical product.
+2. Estimates of chemical process equipment costs, fixed costs, variable costs, and total capital costs.
+3. Economic analysis of net present value and other related measures of profitability.
+4. Set of design and operating variables that optimize the chemical process plant design subject to various measures of profitability.
+5. Preliminary, base case, and optimized chemical process designs.   
 
 ## Conduct
 

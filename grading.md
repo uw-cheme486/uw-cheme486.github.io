@@ -4,68 +4,76 @@ title: Grading
 collection: main
 ---
 
+The ChemE 486 Design II course is largely structured around the AIChE Student Design Competition. As such, all most of your assignments will be building towards your final submission in the form of a Final Report. As we are bound to adhere to the competition rules, we are limited in the content and feedback we can delivery. In particular, these two rules apply:
+
+*Chemical Engineering Departments, including advisors, faculty, or any other instructors cannot provide technical aid specifically directed at the solution of the AIChE Student Design Competition if students plan on submitting to the contest. For example, if the problem statement asks for students to design a hydrogen production process, faculty members should not be directly telling students how to design this process or suggesting to them which process to use.*
+
+*Students are permitted to ask generalized questions to faculty members and outside experts while working on this problem. For example, if students are designing a hydrogen production process and they have two production methods in mind, students may ask a faculty member with experience in hydrogen production about their experiences with the different methods so they can make an informed decision on which method to choose for their design. Students are also permitted to ask for assistance on how to use the process simulation software.*
+
+As feedback in the form of a graded rubric would potentially violate these rules, homework assignments will be graded for completeness only: that all deliverables asked for are present, and a good-faith effort has been made for each component. Final projects and presentations, which will be turned in on the last day of the allotted 60-day period, will be graded on a rubric for both completeness and technical content, as outlined in the problem statement.
+
+With the exception of the Reflections and Safety Moment assignments, all assignments and projects will be graded as a team effort.
+
 ## Course Grade
 
 Final grades are broken down as follows:
 
 | **Item**           | **Points**    |
 | ------------------ | ------------- |
-| Homework           | 30%           |
-| Mid-Term           | 30%           |
-| Final Project      | 40%           |
-| -- (Planning Rep.) | -- (10%)      |
-| -- (Presentation)  | -- (10%)      |
-| -- (Final Report)  | -- (20%)      |
+| Homework           | 25%           |
+| Reflections        | 5%            |
+| Project Updates    | 5%            |
+| Safety Moment      | 5%            |
+| Final Report       | 40%           |
+| Presentation       | 20%           |
 | **Total**          | 100%          |
 
 ## Homework
 
-Homeworks will either be submitted via Github classroom in the form of a GitHub repository or via Canvas (see next section on details). All written work should be submitted in the repo README.md file using Markdown and Latex (see Markdown introduction [here](https://www.markdownguide.org/basic-syntax/) and Latex introduction [here](https://www.overleaf.com/learn/latex/Mathematical_expressions)). Accompanying data files such as Excel files and Aspen files should also be uploaded with the text file.
+The following homework assignments will be assigned throughout the course:
 
-Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/). See a video tutorial for submitting homework assignments with Git [here](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=847f11be-1154-4c41-9d10-aaff0122ebd7).
+* Week 1: Gantt Chart/Alternative
+* Week 2: Planning Report
+* Week 3: L1 Simulation
+* Week 6: L2 Simulation
+* Week 7: PFD
 
-Students will be able to resubmit homeworks to be regraded. All homeworks are due at midnight on the day specified.
+Links to the grade breakdown for each assignment can be found at the provided links above.
 
-1. Homework due: Wednesday the week after it has been assigned.
-2. Homework feedback: Monday after it has been turned in.
-3. Homework regrades due: the following Monday
-4. Homework regrade feedback: the following Friday
+*Note*: As this class will have specific software requirements, please let me know if this will be an issue for you. Note that all students have access to Aspen and Visio through their [RemoteApp cluster](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html). The chemical engineering department also has computers available to students on the 1st floor computer lab. Please contact our computing and technology manager, Jessie Chiem (jchiem@uw.edu) for any questions or assistance.
 
-Homeworks will be graded by either of the TAs, regardless of section, as determined randomly. This will ensure fair grading across the board.
+## Guest Speaker Reflections
 
-*Note*: As this class will have specific software requirements, please let me know if this will be an issue for you. Note that all students have access to Aspen and Visio through their [RemoteApp cluster](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html). The chemical engineering department also has computers available to students on the 1st floor computer lab. Git and Bash should already be accessible on all MacOS platforms on department machines, as it is built into the operating system. Please contact our computing and technology manager, Jessie Chiem (jchiem@uw.edu) for any questions or assistance.
+This course will include up to 5 guest speakers to provide context for process design from both industry and government. Each speaker has taken time out of their day job to attend, and we **expect you to show respect by showing up.** Not only will the information provided by the speakers be relevant to your final designs, but they will also potentially help give guidance to your careers as engineers.
 
-## Pedagogy Research
+Students will submit a one-page reflection on guest speaker presentation. These are open-ended, but questions you may want to consider are:
 
-This year, we will be conducting research on the use of Github Classroom as a tool for homework submission and project management. Each section will use a different platform for homework submission: Section AA will use GitHub Classroom, and Section AB will use the UW Canvas system. At the end of the course, the course evaluations will include questions to assess:
+* What aspects of the speaker's talk will prove helpful in our design project?
+* What aspects helped me understand potential careers for engineers?
+* What questions do I still have on the topic covered?
 
-* Whether the homework submission platform improved feedback to students and communication with the instructional team.
-* Whether the platform's existing version control features contributed to homework completion and project management.
-* Whether the platform project management tools enhanced team development and the ability of teams to complete projects.
-* Whether students feel they will use these tools in the future.
+## Project Updates
 
-The TAs will go over these tools in the quiz sections the first week of class to ensure students are comfortable using them for homework submission. Please also watch the following videos for reference, depending on your section:
+Each week in quiz section, project teams will be expected to give a 3-5 minute informal project update to their section TA. These presentations will *not* be in front of the whole class. These project updates need not take much advanced preparation. Team members should rotate who presents from week to week. The following components should be present:
 
-**GitHub tools**
+1. An updated Gantt chart or other task management system.
+2. Tasks completed during the previous week.
+3. Unexpected hurdles encountered and potential resolutions.
+4. Short-term (what to accomplish by next week) and long-term plans (tasks saved for later)
 
-* [Using Markdown to create documents](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50dfe599-d18a-4ff1-b209-ab1b010947f8)
-* [Version control with GitHub](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fb31d40-91fb-48b8-9bc9-ab1b010d6507)
-* [Project management with GitHub](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ae1bd374-defc-4d64-bb9f-ab1b0114a60b)
-* [GitHub Wiki pages](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f16e0518-9875-48b5-a9bd-ab1b011f406c)
+## Safety Moments
 
-**Canvas tools**
+Individual students will present on Safety Moment each day in lecture and in each quiz section. Students can sign up [here]().
 
-* [Canvas project management tools](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c929ab25-c487-4771-bd80-ab1b01678d04)
+A Safety Moment is a quick two-minute presentation on some aspect of safety in the context of design. This is largely open-ended, but potential topics may be drawn from the provided "AIChE Ammonia Safety Symposium: 50 Years of Shared Experiences", Safety Data Sheets, the SAChE website, or Chapter 26 of Turton.
 
 ## Late Work
 
 Late assignments will be penalized by 10% for the first 0-24 hours and 10% for each additional day (including weekends and holidays).
 
-With the exception of pre-arrangement with the instructor in extenuating circumstances, **exams must be taken on the day scheduled**. No re-dos will be offered.
+## Project Teams
 
-## Projects
-
-Class projects will be completed in teams of 3 (with 1-2 teams of 4 if it doesn't split evenly). Teams will be assigned randomly. This is done for a reason, as there are advantages and disadvantages with different team formation methods (see this summary [here](http://facultyguidetoteamwork.umn.edu/how-do-i-form-successful-teams)). I prefer random assignment because:
+Class projects will be completed in teams of 4. Teams will be assigned semi-randomly: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. This is done for a reason, as there are advantages and disadvantages with different team formation methods (see this summary [here](http://facultyguidetoteamwork.umn.edu/how-do-i-form-successful-teams)). I prefer incorporating some form of random assignment because:
 
 1. Randomized teams are more likely to give diverse teams, a key element to team success.
 2. Students will work with students they may not know as well, which will be a given in the work force.
@@ -74,14 +82,10 @@ Class projects will be completed in teams of 3 (with 1-2 teams of 4 if it doesn'
 
 If you foresee any problems with your team after team assignment, please come see me.
 
-Each team will select a project from one of the following sources:
-
-1. Appendix C of Turton
-2. Additional projects found [here](https://richardturton.faculty.wvu.edu/projects)
-3. Past problems from the [AIChE design competition](https://www.aiche.org/community/students/student-design-competition/past-problems)
-
-Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks).
+Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though.
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 
 In order to ensure consistent grading of final projects, the teaching team (all TAs and the myself) will grade all reports together as a group.
+
+Students are **not obligated** to participate in the AIChE Student Design Competition. With arrangement from the instructor students can either (1) work on the same design problem as the rest of the students with no expectation to submit or (2) choose an alternate design problem. Students will still be evaluated based on the same criteria as specified in the assignment rubrics.

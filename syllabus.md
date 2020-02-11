@@ -8,7 +8,7 @@ collection: main
 
 | Week | of     | Mon             | Wed             | Fri             | Quiz        | HW       | Due   |
 | ---- | -----  | --------------- | --------------- | --------------- | ----------- | -------- | -------- |
-| 1    | Mar 30 | Course Introduction <br> AIChE Design Problem | Exercise: back of the envelope | Exercise: task allocation |             |          | Gantt Chart/Alternative |  NA  |
+| 1    | Mar 30 | Course Introduction <br> AIChE Design Problem | Exercise: back of the envelope | Exercise: task allocation |        | Gantt Chart/Alternative |  NA  |
 | 2    | Apr 6  | Guest Speaker: Design | Students' choice | Exercise: Literature search |             | Planning Report | Gantt Chart/Alternative         |
 | 3    | 13     | Guest Speaker: Regulation | Students' choice | Exercise: L1 simulation |             | L1 Simulation | Planning Report         |
 | 4    | 20     | Guest Speaker: Controls |   |                 |             | NA         | L1 Simulation         |

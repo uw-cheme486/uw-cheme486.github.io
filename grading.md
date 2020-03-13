@@ -20,23 +20,28 @@ Final grades are broken down as follows:
 
 | **Item**           | **Points**    |
 | ------------------ | ------------- |
-| Homework           | 25%           |
-| Reflections        | 5%            |
-| Project Updates    | 5%            |
-| Safety Moment      | 5%            |
-| Final Report       | 40%           |
-| Presentation       | 20%           |
+| **Assignments**    | 20%           |
+| - Gantt Chart      | - 5%          |
+| - Planning Report  | - 5%          |
+| - L1 Simulation    | - 5%          |
+| - L2 Simulation    | - 5%          |
+| **Participation**  | 20%           |
+| - Safety Moment    | - 5%          |
+| - Reflections      | - 5x2%        |
+| - Project Updates  | - 5%          |
+| **Final Project**  | 60%           |
+| - Final Report     | - 40%         |
+| - Presentation     | - 20%         |
 | **Total**          | 100%          |
 
 ## Homework
 
 The following homework assignments will be assigned throughout the course:
 
-* Week 1: Gantt Chart/Alternative
-* Week 2: Planning Report
-* Week 3: L1 Simulation
-* Week 6: L2 Simulation
-* Week 7: PFD
+* **Due** Apr 8: [Gantt Chart/Alternative](https://canvas.uw.edu/courses/1371821/assignments/5271619)
+* **Due** Apr 15: [Planning Report](https://canvas.uw.edu/courses/1371821/assignments/5271620)
+* **Due** Apr 29: [L1 Simulation](https://canvas.uw.edu/courses/1371821/assignments/5271621)
+* **Due** May 6: [L2 Simulation](https://canvas.uw.edu/courses/1371821/assignments/5271623)
 
 Links to the grade breakdown for each assignment can be found at the provided links above.
 
@@ -54,7 +59,7 @@ Students will submit a one-page reflection on guest speaker presentation. These 
 
 ## Project Updates
 
-Each week in quiz section, project teams will be expected to give a 3-5 minute informal project update to their section TA. These presentations will *not* be in front of the whole class. These project updates need not take much advanced preparation. Team members should rotate who presents from week to week. The following components should be present:
+Each week in quiz section, project teams will be expected to give a 3-5 minute informal project update to their section TA. These project updates need not take much advanced preparation. Team members should rotate who presents from week to week. The following components should be present in the form of a Powerpoint slide:
 
 1. An updated Gantt chart or other task management system.
 2. Tasks completed during the previous week.
@@ -80,9 +85,9 @@ Class projects will be completed in teams of 4. Teams will be assigned semi-rand
 3. It removes bias that other methods can't address (e.g. trying to make "balanced" teams based on student ability or temperament. The worst I've heard is assigning groups based on GPA).
 4. It's just easier.
 
-If you foresee any problems with your team after team assignment, please come see me.
+If you foresee any problems with your team after team assignment, please come see Eric or Chad.
 
-Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though.
+Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here]() and [here](), respectively.
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 

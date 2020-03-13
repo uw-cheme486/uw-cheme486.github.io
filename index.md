@@ -17,10 +17,10 @@ Comprehensive design of a specific process or product, including economic feasib
 
 ## Teaching Assistants
 
-- AA: Anthony Pyka
+- AA: Sawyer Morgan
   * Office hours: TBD
 
-- AB: Preetham Sunkari
+- AB: Jonathan Witt
   * Office hours: TBD
 
 - AC: Kaylyn Torkelson
@@ -37,7 +37,7 @@ Comprehensive design of a specific process or product, including economic feasib
 
 ## Course Design
 
-Process Design II is a project-based course designed around the AIChE Chemical Engineering Design Competition. Students will be preparing a completed design report, including process flow diagrams, equipment cost and fixed capital investment summaries, process safety considerations, environmental considerations, manufacturing costs, and economic analyses. Students and faculty must adhere to the competition rules, as outlined in the provided documents. In particular, all designs **must be completed within 60 days of being assigned**, and **faculty members can only provided generalized advice and information not specific to the problem at hand**. Please see the grading page for any questions regarding the impact on assignments and evaluation. 
+Process Design II is a project-based course designed around the AIChE Chemical Engineering Design Competition. Students will be preparing a completed design report, including process flow diagrams, equipment cost and fixed capital investment summaries, process safety considerations, environmental considerations, manufacturing costs, and economic analyses. Students and faculty must adhere to the competition rules, as outlined in the provided documents. In particular, all designs **must be completed within 60 days of being assigned**, and **faculty members can only provided generalized advice and information not specific to the problem at hand**. Please see the grading page for any questions regarding the impact on assignments and evaluation.
 
 ## Course Objectives
 

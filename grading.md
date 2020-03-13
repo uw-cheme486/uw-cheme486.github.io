@@ -87,7 +87,7 @@ Class projects will be completed in teams of 4. Teams will be assigned semi-rand
 
 If you foresee any problems with your team after team assignment, please come see Eric or Chad.
 
-Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here]() and [here](), respectively.
+Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Final_Project_Rubric.doc) and [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Presentation_Rubric.doc), respectively.
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 

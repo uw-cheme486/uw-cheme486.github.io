@@ -18,5 +18,5 @@ For course lectures, you can sign into UW Zoom [here](https://washington.zoom.us
 | 6    | May 4  |  | Control in design (18) |             | NA         | L2 Simulation         |
 | 7    | 11     |  | Heat Integration  |                 |             | NA         | NA         |
 | 8    | 18     |  | Guest speaker: Green engineering  |                 |             | Final Report         | NA       |
-| 9    | 25     |                 | Wrapping up     | Presentations   |             | Presentations         | Final Report         |
-| 10   | Jun 1  | Presentations   | Presentations   | Presentations   |             |          | Presentations         |          
+| 9    | 25     |                 | Wrapping up     | **Final Reports due**   |            | Presentations         | Final Report         |
+| 10   | Jun 1  |    |    |    | Presentations            |          | Presentations         |          

@@ -4,7 +4,7 @@ title: Grading
 collection: main
 ---
 
-The ChemE 486 Design II course is largely structured around the AIChE Student Design Competition. As such, all most of your assignments will be building towards your final submission in the form of a Final Report. As we are bound to adhere to the competition rules, we are limited in the content and feedback we can delivery. In particular, these two rules apply:
+The ChemE 486 Design II course is largely structured around the AIChE Student Design Competition. As such, all of your assignments will be building towards your final submission in the form of a Final Report. As we are bound to adhere to the competition rules, we are limited in the content and feedback we can delivery. In particular, these two rules apply:
 
 *Chemical Engineering Departments, including advisors, faculty, or any other instructors cannot provide technical aid specifically directed at the solution of the AIChE Student Design Competition if students plan on submitting to the contest. For example, if the problem statement asks for students to design a hydrogen production process, faculty members should not be directly telling students how to design this process or suggesting to them which process to use.*
 
@@ -20,19 +20,19 @@ Final grades are broken down as follows:
 
 | **Item**           | **Points**    |
 | ------------------ | ------------- |
-| **Assignments**    | 20%           |
-| - Gantt Chart      | - 5%          |
-| - Planning Report  | - 5%          |
-| - L1 Simulation    | - 5%          |
-| - L2 Simulation    | - 5%          |
+| **Assignments**    | 30%           |
+| - Gantt Chart      | --> 5%          |
+| - Planning Report  | --> 5%          |
+| - L1 Simulation    | --> 10%          |
+| - L2 Simulation    | --> 10%          |
 | **Participation**  | 20%           |
-| - Safety Moment    | - 2%          |
-| - Literature Review | - 3%         |
-| - Reflections      | - 5x2%        |
-| - Project Updates  | - 5%          |
-| **Final Project**  | 60%           |
-| - Final Report     | - 40%         |
-| - Presentation     | - 20%         |
+| - Safety Moment    | --> 2%          |
+| - Literature Review | --> 3%         |
+| - Reflections      | --> 5x2%        |
+| - Project Updates  | --> 5%          |
+| **Final Project**  | 50%           |
+| - Final Report     | --> 40%         |
+| - Presentation     | --> 10%         |
 | **Total**          | 100%          |
 
 ## Homework
@@ -92,19 +92,12 @@ Late assignments will be penalized by 10% for the first 0-24 hours and 10% for e
 
 ## Project Teams
 
-Class projects will be completed in teams of 4. Teams will be assigned semi-randomly: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. This is done for a reason, as there are advantages and disadvantages with different team formation methods (see this summary [here](http://facultyguidetoteamwork.umn.edu/how-do-i-form-successful-teams)). I prefer incorporating some form of random assignment because:
-
-1. Randomized teams are more likely to give diverse teams, a key element to team success.
-2. Students will work with students they may not know as well, which will be a given in the work force.
-3. It removes bias that other methods can't address (e.g. trying to make "balanced" teams based on student ability or temperament. The worst I've heard is assigning groups based on GPA).
-4. It's just easier.
-
-Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Eric or Chad.
+Class projects will be completed in teams of 4. Teams will be assigned semi-randomly: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Prof. Stuve or Prof. Curtis.
 
 Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Final_Project_Rubric.doc) and [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Presentation_Rubric.doc), respectively.
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 
-In order to ensure consistent grading of final projects, the teaching team (all TAs and the myself) will grade all reports together as a group.
+In order to ensure consistent grading of final projects, the teaching team (all TAs and the instructors) will grade all reports together as a group.
 
-Students are **not obligated** to participate in the AIChE Student Design Competition. With arrangement from the instructor students can either (1) work on the same design problem as the rest of the students with no expectation to submit or (2) choose an alternate design problem. Students will still be evaluated based on the same criteria as specified in the assignment rubrics.
+Students are **not obligated** to participate in the AIChE Student Design Competition. With arrangement from the instructors students can either (1) work on the same design problem as the rest of the students with no expectation to submit or (2) choose an alternate design problem. Students will still be evaluated based on the same criteria as specified in the assignment rubrics. Students will also still be held to the same standard for asking for help on the problem. 

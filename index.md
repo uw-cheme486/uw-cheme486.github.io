@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Course Home
 collection: main
 ---
 
@@ -31,9 +31,9 @@ Comprehensive design of a specific process or product, including economic feasib
 - Lectures: M/W/F 8:30-9:20 (JHN 175)
 
 - Quiz Sections:
-  * AA: T 8:30-11:20 (BNS 203)
-  * AB: T 1:30-4:20 (MUE 154)
-  * AC: Th 8:30-11:20 (BNS 203)
+  * AA (Kaylyn): T 8:30-11:20 (BNS 203)
+  * AB (Jon): T 1:30-4:20 (MUE 154)
+  * AD (Sawyer): Th 8:30-11:20 (BNS 203)
 
 ## Course Design
 
@@ -57,13 +57,13 @@ We are confirming with guest speakers whether they can still delivery their lect
 
 ## Conduct
 
-The University of Washington Student Conduct Code (WAC 478-121) defines prohibited academic and behavioral conduct and describes how the University holds students accountable by students as they pursue their academic goals. In particular, please review the definitions of academic misconduct found [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH209.html#7) and [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH210.html#7). In the context of ChemE 485, it is expected that all work, homework and otherwise, is the students' own work. Students should also not use unauthorized materials during exams. Concerns about these or other behaviors prohibited by the Student Conduct Code will be referred for investigation and adjudication by the College of Engineering.
+The University of Washington Student Conduct Code (WAC 478-121) defines prohibited academic and behavioral conduct and describes how the University holds students accountable by students as they pursue their academic goals. In particular, please review the definitions of academic misconduct found [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH209.html#7) and [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH210.html#7). In the context of ChemE 486, it is expected that all work, homework and otherwise, is the students' own work for individual assignments, and the work of the group for team assignments. Concerns about these or other behaviors prohibited by the Student Conduct Code will be referred for investigation and adjudication by the College of Engineering.
 
 Students found to have engaged in academic misconduct may receive a zero on the assignment (or other possible outcome).
 
 ## Access and Accommodations
 
-Your experience in this class is important to both me and the teaching team. If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me as early as possible so we can discuss your needs in this course.
+Your experience in this class is important to both us as a teaching team. If you have already established accommodations with Disability Resources for Students (DRS), please communicate your approved accommodations to me as early as possible so we can discuss your needs in this course.
 
 If you have not yet established services through DRS, but have a temporary health condition or permanent disability that requires accommodations (conditions include but not limited to mental health, attention-related, learning, vision, hearing, physical, or health impacts) you are welcome to contact DRS at 206-543-8924 or uwdrs@uw.edu or disability.uw.edu. DRS offers resources and coordinates reasonable accommodations for students with disabilities and/or temporary health conditions. Reasonable accommodations are established through an interaction process with you, your instructor(s) and DRS. It is the policy and practice of the University of Washington to create inclusive and accessible learning environments consistent with state and federal law.
 

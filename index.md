@@ -47,7 +47,13 @@ By the end of the course, students should be able to design and optimize a chemi
 2. Estimates of chemical process equipment costs, fixed costs, variable costs, and total capital costs.
 3. Economic analysis of net present value and other related measures of profitability.
 4. Set of design and operating variables that optimize the chemical process plant design subject to various measures of profitability.
-5. Preliminary, base case, and optimized chemical process designs.   
+5. Preliminary, base case, and optimized chemical process designs.
+
+## Note on Course Modifications for COVID-19
+
+We have transitioned all content delivery, homework assignments, and communication with the instructional team online. All lectures and quiz sections will be held via Zoom. Links will be provided on the course schedule. Office hours will likely also be held via Zoom. Homework assignments will be delivered via Canvas. We have also set up a course Slack channel. We are generally very responsive through this mode of communication, and we recommend taking full advantage of it to ask questions, communicate with team members, give feedback, etc. You will receive an invitation link prior to the first day of class.
+
+We are confirming with guest speakers whether they can still delivery their lectures via Zoom. We will update you as we get confirmations.  
 
 ## Conduct
 

@@ -4,13 +4,15 @@ title: Schedule
 collection: main
 ---
 
+For course lectures, you can sign into UW Zoom [here](https://washington.zoom.us/). The meeting requires a one-time registration, with a link and password provided in the introductory course email. The meeting ID is 628-655-533.
+
 ## Course Schedule
 
 | Week | of     | Mon             | Wed             | Fri             | Quiz        | HW       | Due   |
 | ---- | -----  | --------------- | --------------- | --------------- | ----------- | -------- | -------- |
-| 1    | Mar 30 | Blank | Course Introduction <br> AIChE Design Problem | Exercise: back of the envelope |        | Gantt Chart/Alternative |  NA  |
-| 2    | Apr 6  | Exercise: task allocation | Guest speaker: <br> James Bozsa <br> Blue Origin | Exercise: Literature search |             | Planning Report | Gantt Chart/Alternative         |
-| 3    | 13     | Students' choice | Guest Speaker <br> [Scott Nelson](https://www.ehs.washington.edu/staff/scott-nelson) <br> Safety | Exercise: L1 simulation |             | L1 Simulation | Planning Report         |
+| 1    | Mar 30 | Course Introduction <br> AIChE Design Problem | Exercise: back of the envelope | Exercise: task allocation |        | Gantt Chart/Alternative |  NA  |
+| 2    | Apr 6  | Exercise: Literature search | Guest speaker: <br> James Bozsa <br> Blue Origin | Teams Present: <br> Literature Search |             | Planning Report | Gantt Chart/Alternative         |
+| 3    | 13     | Teams Present: <br> Literature Search | Guest Speaker <br> [Scott Nelson](https://www.ehs.washington.edu/staff/scott-nelson) <br> Safety | Exercise: L1 simulation |             | L1 Simulation | Planning Report         |
 | 4    | 20     |  | Guest Speaker: <br> [Glenda Roberts](https://kri.washington.edu/people/glenda-roberts) <br> Design  |                 |             | NA         | L1 Simulation         |
 | 5    | 27     |  | Guest Speaker: <br> [Larry Kessler](http://depts.washington.edu/hserv/faculty/Kessler_Larry) <br> Regulations |                 |             | L2 Simulation         | NA         |
 | 6    | May 4  |  | Control in design (18) |             | NA         | L2 Simulation         |

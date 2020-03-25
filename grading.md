@@ -26,7 +26,8 @@ Final grades are broken down as follows:
 | - L1 Simulation    | - 5%          |
 | - L2 Simulation    | - 5%          |
 | **Participation**  | 20%           |
-| - Safety Moment    | - 5%          |
+| - Safety Moment    | - 2%          |
+| - Literature Review | - 3%         |
 | - Reflections      | - 5x2%        |
 | - Project Updates  | - 5%          |
 | **Final Project**  | 60%           |
@@ -66,11 +67,24 @@ Each week in quiz section, project teams will be expected to give a 3-5 minute i
 3. Unexpected hurdles encountered and potential resolutions.
 4. Short-term (what to accomplish by next week) and long-term plans (tasks saved for later)
 
+Students are not obligated to use Gantt charts for project management, but they must have a formal platform to allocate tasks and keep track of milestones (e.g. KanBan boards and GitHub issues from last quarter). There is some really cool software with a free version over at [TeamGantt](https://www.teamgantt.com/) that even interfaces with Slack, or you could go the traditional Excel spreadsheet route. There are some cool tools over at [Office Timeline](https://www.officetimeline.com/make-gantt-chart/excel#tutorial-auto) that you could consider using.
+
 ## Safety Moments
 
-Individual students will present on Safety Moment each day in lecture and in each quiz section. Students can sign up [here]().
+Individual students will present on Safety Moment each day in lecture and in each quiz section. Students can sign up [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing).
 
 A Safety Moment is a quick two-minute presentation on some aspect of safety in the context of design. This is largely open-ended, but potential topics may be drawn from the provided "AIChE Ammonia Safety Symposium: 50 Years of Shared Experiences", Safety Data Sheets, the SAChE website, or Chapter 26 of Turton.
+
+## Literature Review
+
+In order to help get you familiar with some of the literature provided to you in the problem statement, each team will provide a 5-7 minute review of one of the provided documents. Please don’t select documents that have already been chosen by another group. Presentations will take place in class on Friday April 10 and Monday April 13. Students can sign up [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing).
+
+Not everyone in the team has to present, but should be involved in the literature search. Things to include are:
+
+* What is the venue/format of the document (encyclopedia entry, journal article, commercial website, etc)
+* What particular aspect of design does this source address? (Separations, reactions, safety, risk, economics, etc)
+* What are the major findings? What parts are useful for addressing the problem statement?
+
 
 ## Late Work
 
@@ -85,7 +99,7 @@ Class projects will be completed in teams of 4. Teams will be assigned semi-rand
 3. It removes bias that other methods can't address (e.g. trying to make "balanced" teams based on student ability or temperament. The worst I've heard is assigning groups based on GPA).
 4. It's just easier.
 
-If you foresee any problems with your team after team assignment, please come see Eric or Chad.
+Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Eric or Chad.
 
 Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Final_Project_Rubric.doc) and [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Presentation_Rubric.doc), respectively.
 

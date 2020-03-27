@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Course Home
+title: Home
 collection: main
 ---
 
@@ -28,12 +28,12 @@ Comprehensive design of a specific process or product, including economic feasib
 
 ## Teaching Logistics
 
-- Lectures: M/W/F 8:30-9:20 (JHN 175)
+- Lectures: M/W/F 8:30-9:20
 
 - Quiz Sections:
-  * AA (Kaylyn): T 8:30-11:20 (BNS 203)
-  * AB (Jon): T 1:30-4:20 (MUE 154)
-  * AD (Sawyer): Th 8:30-11:20 (BNS 203)
+  * AA (Kaylyn): T 8:30-11:20
+  * AB (Sawyer): T 1:30-4:20
+  * AD (Jon): Th 1:30-4:20
 
 ## Course Design
 

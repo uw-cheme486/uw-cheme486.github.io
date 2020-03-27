@@ -24,7 +24,7 @@ The suggested report format is as follows:
 
 ## Letter of Transmittal
 
-This is a memorandum (if internal) or a letter (if external) to the appropriate person identifying the report. Teh report is actually an enclosure to this letter. Remember to refer to teh original memorandum or problem statement. In order to get the reader's attention, writing several sentences summarizing the bottom line is essential. You should always sign or initial this memo or letter. This letter stands alone. It contains no figures or tables, and does not reference any figures or tables contained within the report.
+This is a memorandum (if internal) or a letter (if external) to the appropriate person identifying the report. the report is actually an enclosure to this letter. Remember to refer to the original memorandum or problem statement. In order to get the reader's attention, writing several sentences summarizing the bottom line is essential. You should always sign or initial this memo or letter. This letter stands alone. It contains no figures or tables, and does not reference any figures or tables contained within the report.
 
 ## Title Page
 
@@ -66,7 +66,7 @@ The above should not appear without description. This section is held together b
 
 Mention the PDF early in the prose of this section and refer to it often.
 
-Whichever you choose, figures and tables have a specific format. They are numbered in the order in which they appear in the report. They should appear on the pages immediately following where they are first cited in the prose. If a figure or table is not cited, it should appear in the report. Tables have a title at the top. Figures have a caption at the bottom, which, if a graph, should not simply repeat the axes (unacceptable: y vs. x; good: Plot illustrating...). Nothing should appear at the top of a figure. The fact that most software puts a figure title at the top is not a reason for you to have a title at the top. When you refer to a figure or figure or table, Figure #, Stream #, or Table # should be considered a proper name and, therefore, capitalized.
+Whichever you choose, figures and tables have a specific format. They are numbered in the order in which they appear in the report. They should appear on the pages immediately following where they are first cited in the prose. If a figure or table is not cited, it should not appear in the report. Tables have a title at the top. Figures have a caption at the bottom, which, if a graph, should not simply repeat the axes (unacceptable: y vs. x; good: Plot illustrating...). Nothing should appear at the top of a figure. The fact that most software puts a figure title at the top is not a reason for you to have a title at the top. When you refer to a figure or figure or table, Figure #, Stream #, or Table # should be considered a proper name and, therefore, capitalized.
 
 Figures can be scatter plots, bar charts, or pie charts. Use scatter plots when the independent variable (x-axis) is quantitative e.g. temperature. Use bar charts when a non-quantitative independent variable is being plotted, e.g. cost (y-axis) vs. case study number or piece of equipment (x-axis). Use pie charts when relative amounts of quantities are being compared, and the quantities form a whole e.g. distribution of capital costs between individual equipment.
 

@@ -4,7 +4,7 @@ title: Schedule
 collection: main
 ---
 
-For course lectures, you can sign into UW Zoom [here](https://washington.zoom.us/). The meeting requires a one-time registration, with a link and password provided in the introductory course email. The meeting ID is 628-655-533.
+For course lectures, you can sign into UW Zoom [here](https://washington.zoom.us/). The meeting requires a one-time registration, with a link and password provided in the Slack channel. The meeting ID is 628-655-533.
 
 ## Course Schedule
 

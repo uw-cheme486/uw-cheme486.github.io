@@ -17,13 +17,13 @@ Comprehensive design of a specific process or product, including economic feasib
 
 ## Teaching Assistants
 
-- AA: Sawyer Morgan
+- AA: Kaylyn Torkelson
   * Office hours: TBD
 
-- AB: Jonathan Witt
+- AB: Sawyer Morgan
   * Office hours: TBD
 
-- AC: Kaylyn Torkelson
+- AD: Jonathan Witt
   * Office hours: TBD
 
 ## Teaching Logistics

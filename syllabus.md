@@ -10,7 +10,7 @@ For course lectures, you can sign into UW Zoom [here](https://washington.zoom.us
 
 | Week | of     | Mon             | Wed             | Fri             | Quiz        | HW       | Due   |
 | ---- | -----  | --------------- | --------------- | --------------- | ----------- | -------- | -------- |
-| 1    | Mar 30 | [Course Introduction](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d71b5500-19d7-473d-932e-ab8e01012155) <br> AIChE Design Problem | Exercise: back of the envelope | Exercise: task allocation |        | Gantt Chart/<br> Alternative |  NA  |
+| 1    | Mar 30 | [Course Introduction](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d71b5500-19d7-473d-932e-ab8e01012155) <br> [AIChE Design Problem](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/lectures/L0_problem_statement.pptx) | Exercise: back of the envelope | Exercise: task allocation |        | Gantt Chart/<br> Alternative |  NA  |
 | 2    | Apr 6  | Exercise: Literature search | Guest speaker: <br> James Bozsa <br> Blue Origin | Teams Present: <br> Literature Search |             | Planning Report | Gantt Chart/<br> Alternative         |
 | 3    | 13     | Teams Present: <br> Literature Search | Guest Speaker <br> [Scott Nelson](https://www.ehs.washington.edu/staff/scott-nelson) <br> Safety | Exercise: L1 simulation |             | L1 Simulation | Planning Report         |
 | 4    | 20     |  | Guest Speaker: <br> [Glenda Roberts](https://kri.washington.edu/people/glenda-roberts) <br> Design  |                 |             | NA         | L1 Simulation         |

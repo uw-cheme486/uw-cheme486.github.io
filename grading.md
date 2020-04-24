@@ -58,6 +58,16 @@ Students will submit a one-page reflection on guest speaker presentation. These 
 * What aspects helped me understand potential careers for engineers?
 * What questions do I still have on the topic covered?
 
+Links to submit homework assignments for each speaker can be found below:
+
+* **Due** Apr 15: [James Bozsa on process control (Apr 8)](https://canvas.uw.edu/courses/1371821/assignments/5271648)
+* **Due** Apr 22: [Scott Nelson on safety (Apr 13)](https://canvas.uw.edu/courses/1371821/assignments/5271654)
+* **Due** Apr 29: [Glenda Roberts on business considerations (Apr 22)](https://canvas.uw.edu/courses/1371821/assignments/5271651)
+* **Due** May 6: [Larry Kessler on regulations (Apr 29)](https://canvas.uw.edu/courses/1371821/assignments/5271653)
+* **Due** May 27: [Heather Valdez on green engineering (May 20\*)](https://canvas.uw.edu/courses/1371821/assignments/5271656)
+
+\* Still confirming a date with Heather Valdez
+
 ## Project Updates
 
 Each week in quiz section, project teams will be expected to give a 3-5 minute informal project update to their section TA. These project updates need not take much advanced preparation. Team members should rotate who presents from week to week. The following components should be present in the form of a Powerpoint slide:
@@ -69,13 +79,15 @@ Each week in quiz section, project teams will be expected to give a 3-5 minute i
 
 Students are not obligated to use Gantt charts for project management, but they must have a formal platform to allocate tasks and keep track of milestones (e.g. KanBan boards and GitHub issues from last quarter). There is some really cool software with a free version over at [TeamGantt](https://www.teamgantt.com/) that even interfaces with Slack, or you could go the traditional Excel spreadsheet route. There are some cool tools over at [Office Timeline](https://www.officetimeline.com/make-gantt-chart/excel#tutorial-auto) that you could consider using.
 
-## Safety Moments
+## Safety Moments\*
 
 Individual students will present on Safety Moment each day in lecture and in each quiz section. Students can sign up [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing).
 
 A Safety Moment is a quick two-minute presentation on some aspect of safety in the context of design. This is largely open-ended, but potential topics may be drawn from the provided "AIChE Ammonia Safety Symposium: 50 Years of Shared Experiences", Safety Data Sheets, the SAChE website, or Chapter 26 of Turton.
 
-## Literature Review
+\* No submission via Canvas required.
+
+## Literature Review\*
 
 In order to help get you familiar with some of the literature provided to you in the problem statement, each team will provide a 5-7 minute review of one of the provided documents. Please don’t select documents that have already been chosen by another group. Presentations will take place in class on Friday April 10 and Monday April 13. Students can sign up [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing).
 
@@ -85,6 +97,7 @@ Not everyone in the team has to present, but should be involved in the literatur
 * What particular aspect of design does this source address? (Separations, reactions, safety, risk, economics, etc)
 * What are the major findings? What parts are useful for addressing the problem statement?
 
+\* No submission via Canvas required.
 
 ## Late Work
 
@@ -94,7 +107,7 @@ Late assignments will be penalized by 10% for the first 0-24 hours and 10% for e
 
 This course requires access to a process simulator. The default option and the one used in the lecture materials is Aspen Plus. Students can access Aspen Plus remotely via the [RemoteApp](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html) available through the College of Engineering. [Here](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba20cd72-05f3-4123-bb5f-ab9d0157fe02) is a video demo-ing how to use the RemoteApp to access Aspen Plus as well as how to save files to your local machine. There are other process simulators out there, some of them freeware (such as [DWSIM](http://dwsim.inforside.com.br/wiki/index.php?title=DWSIM)), but we cannot offer support for alternate programs as an instructional team.
 
-## Project Teams
+## Projects and Project Teams
 
 Class projects will be completed in teams of 4. Teams will be assigned semi-randomly: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Prof. Stuve or Prof. Curtis.
 
@@ -105,3 +118,10 @@ Final projects will be graded as a group effort. Students will be able to give i
 In order to ensure consistent grading of final projects, the teaching team (all TAs and the instructors) will grade all reports together as a group.
 
 Students are **not obligated** to participate in the AIChE Student Design Competition. With arrangement from the instructors students can either (1) work on the same design problem as the rest of the students with no expectation to submit or (2) choose an alternate design problem. Students will still be evaluated based on the same criteria as specified in the assignment rubrics. Students will also still be held to the same standard for asking for help on the problem.
+
+You can submit your final projects and a copy of your presentation slides at the Canvas links below. Please remember to review the rubrics (see above) prior to submission.
+
+* **Due** May 31: [Final Projects](https://canvas.uw.edu/courses/1371821/assignments/5271662)
+* **Due** varies\*: [Final Presentations](https://canvas.uw.edu/courses/1371821/assignments/5271664)
+
+\* Please submit your presentations the day you present in your quiz sections (the week of June 1).

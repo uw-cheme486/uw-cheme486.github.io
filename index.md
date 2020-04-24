@@ -11,20 +11,15 @@ Comprehensive design of a specific process or product, including economic feasib
 ## Instructors
 
 - Prof. Eric Stuve (stuve@uw.edu)
-  * Office hours: TBD
 - Prof. Chad Curtis (ccurtis7@uw.edu)
-  * Office hours: By appointment (BNS 263)
 
 ## Teaching Assistants
 
 - AA: Kaylyn Torkelson
-  * Office hours: TBD
-
 - AB: Sawyer Morgan
-  * Office hours: TBD
-
 - AD: Jonathan Witt
-  * Office hours: TBD
+
+**Contact instructors and TAs via Slack for any questions or to set up an appointment!**
 
 ## Teaching Logistics
 

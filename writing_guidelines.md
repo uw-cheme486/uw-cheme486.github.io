@@ -16,7 +16,7 @@ Planning reports must include:
 
 # Final Reports
 
-Adapted from [Turton](https://richardturton.faculty.wvu.edu/projects)
+The following writing guidelines for final reports are adapted from [Turton](https://richardturton.faculty.wvu.edu/projects). **Please do not use this outline for your final reports. Use the outline as given in the AIChE problem statement**. The problem statement provides all the sections that must be included in your final design. However, it does not go into detail into what should be included in each section. You can use the information below to give guidance on what to include in the body of your report, however you are not obligated to follow it to the T. 
 
 The format for presenting a written design report differs from that of a laboratory report. A laboratory report is more of a scholarly endeavor in which a scientific story is told starting with theory, proceeding through results, discussion, and conclusion. It is usually assumed that the reader will read the entire report. In a design report, the most important conclusions should appear early in the report, with more detail presented for the reader who reads further into the report.
 

@@ -109,11 +109,11 @@ This course requires access to a process simulator. The default option and the o
 
 ## Projects and Project Teams
 
-Class projects will be completed in teams of 4. Teams will be assigned semi-randomly: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Prof. Stuve or Prof. Curtis.
+Class projects will be completed in teams of 4. **Teams will be assigned semi-randomly**: students can select one teammate they would like to work with. Complete 4-person teams will then be formed by randomly pairing these two-person sub-teams. Students can specify their preferred partners for teams [here](https://docs.google.com/spreadsheets/d/1xMZrunPzMAjKA5XZ0oxcciD0_SN-1uZWSY5xc4Dmk_E/edit?usp=sharing). If you foresee any problems with your team after team assignment, please come see Prof. Stuve or Prof. Curtis.
 
 Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks). These are to be used only as a starting point, as the AIChE Design Problem is much more comprehensive. The PFDs, stream tables, and equipment summaries are good templates of what to aim for though. Rubrics for the final report and presentation can be found [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Final_Project_Rubric.doc) and [here](https://github.com/uw-cheme486/uw-cheme486.github.io/raw/master/rubrics/486_Presentation_Rubric.doc), respectively.
 
-Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
+Final projects will be graded as a group effort. **Students will be able to give input on team member contributions through a team evaluation survey**. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 
 In order to ensure consistent grading of final projects, the teaching team (all TAs and the instructors) will grade all reports together as a group.
 
@@ -122,6 +122,6 @@ Students are **not obligated** to participate in the AIChE Student Design Compet
 You can submit your final projects and a copy of your presentation slides at the Canvas links below. Please remember to review the rubrics (see above) prior to submission.
 
 * **Due** May 31: [Final Projects](https://canvas.uw.edu/courses/1371821/assignments/5271662)
-* **Due** varies\*: [Final Presentations](https://canvas.uw.edu/courses/1371821/assignments/5271664)
+* **Due** varies: [Final Presentations](https://canvas.uw.edu/courses/1371821/assignments/5271664)
 
-\* Please submit your presentations the day you present in your quiz sections (the week of June 1).
+You will have 15 minutes to give your presentations plus 5 minutes for questions. Please submit your presentations the day you present in your quiz sections (the week of June 1).
